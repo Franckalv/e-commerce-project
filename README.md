@@ -2,19 +2,19 @@
 
 ## Universidad Don Bosco
 ### Facultad de Ingeniería
-### Escuela de Ingeniería en Computación
-### Diseño y Programación de Software Multiplataforma DPS104 G01T
+### Escuela de Ingeniería en Ciencias de la Computación
+### Diseño y Programación de Software Multiplataforma DPS104 Grupo Teórico 01
 
 ### Proyecto de cátedra
 
-## Integrantes
+## Integrantes:
 - Cristian Alexander Alfaro Hernández - AH211671
 - Cruz Enrique Moreno Lozano - ML210800
 - Benjamín Enrique Rivas Hidalgo - RH190164
 - Francisco Alfonso Sandoval Barrera - SB200814
 - Francisco Javier Zaldaña Álvarez - ZA210751
 
-## Enlaces
+## Enlaces a:
 - Trello: https://trello.com/b/CRX20Vn2/kanban-task-board
 - Figma (Diseño web): https://www.figma.com/design/Jcl0zMDv7p44bJdPKPJeSs/Web-Mock-up?node-id=0-1&t=QTQv6zZptFrP8x2y-1
 - Figma (Diseño móvil): https://www.figma.com/design/uRyx2PBWSlmmxFLrRNaaAL/Movil-Mock-ups?t=QTQv6zZptFrP8x2y-1
