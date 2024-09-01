@@ -8,7 +8,7 @@
 ### Proyecto de cátedra
 
 ## Integrantes:
-- Cristian Alexander Alfaro Hernández - AH211671
+- Christian Alexander Alfaro Hernández - AH211671
 - Cruz Enrique Moreno Lozano - ML210800
 - Benjamín Enrique Rivas Hidalgo - RH190164
 - Francisco Alfonso Sandoval Barrera - SB200814
