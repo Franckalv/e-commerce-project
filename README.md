@@ -3,7 +3,7 @@
 ## Universidad Don Bosco
 ### Facultad de Ingeniería
 ### Escuela de Ingeniería en Ciencias de la Computación
-### Diseño y Programación de Software Multiplataforma DPS104 Grupo Teórico 01
+### Diseño y Programación de Software Multiplataforma DPS104 Grupo Teórico 01T.
 
 ### Proyecto de cátedra
 
